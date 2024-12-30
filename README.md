@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vaibhav521
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Python & web 
+- 👀 I’m interested in Gaming 
 
 <!---
 Vaibhav521/Vaibhav521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
